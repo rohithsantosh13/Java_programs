@@ -9,12 +9,10 @@ $expressionvalidation.java --> This a very well know problem asked by bigTech co
 
 $onesBinary.java(Basic problem) --> count the number of ones on a given number by converting them to binary Number.
 
-$stac.java-->stack geniric implementation in java.
+$stac.java-->stack generic implementation in java.
 
 $threadingUsingimplimentation.java --> operating threads by using impliments.
 
 $threading.java -->operating threads by usings extends(inheritance).
 
 $validateEmail.java --> program to validate email address.
-
-
